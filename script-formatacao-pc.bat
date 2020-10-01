@@ -16,7 +16,7 @@ echo .
 PAUSE
 
 REM primarios
-choco install -y googlechrome googledrive franz geforce-experience samsung-magician msiafterburner cpu-z lightscreen
+choco install -y googlechrome googledrive franz geforce-experience samsung-magician cpu-z
 echo programas primarios instalados com sucesso
 echo .
 
@@ -26,7 +26,7 @@ echo programas para jogos instalados com sucesso
 echo .
 
 REM trabalho
-choco install -y python javaruntime jdk11 android-sdk git vscode notepadplusplus cmder pycharm github androidstudio
+choco install -y python javaruntime jdk11 android-sdk git vscode notepadplusplus pycharm androidstudio
 echo programas para trabalho instalados com sucesso
 echo .
 
